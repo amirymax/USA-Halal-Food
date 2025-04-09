@@ -96,6 +96,20 @@
             "phone": "7868768686",
             "delivery": "YES",
             "description": "Tojik va Özbek milliy taomlari restorani."
+        },
+        {
+            "name": "MARLEN'S KITCHEN",
+            "address": "Мы находимся в СА\nFontana, Ontario, Rialto, San Bernardino, colton, riverside",
+            "phone": "+13236811629",
+            "delivery": "YES-Free",
+            "description": "Хлеб Бесплатно  🍞 \nГазировка 🥤 \nБесплатно"
+        },
+        {
+            "name": "UZBEK CUISINE",
+            "address": "SAN FRANCISCO CA",
+            "phone": "5107782614",
+            "delivery": "YES",
+            "description": "HOMEMADE/ UY SHAROITI"
         }
     ],
     "CO": [
@@ -105,6 +119,34 @@
             "phone": "+1(970)306-2452.  +1(970)306-9552",
             "delivery": "YES",
             "description": "🥘 🍲"
+        },
+        {
+            "name": "Registan Kebab House",
+            "address": "1842 S Parker Rd, Denver, CO 80231",
+            "phone": "+1 (303) 369-0307",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.4 ⭐️ ⭐️ ⭐️ ⭐️"
+        },
+        {
+            "name": "Uzbek kitchen.",
+            "address": "2537 S Halifax Ct, Aurora,\nCO\n80013",
+            "phone": "+1 (347) 835-8345",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.7 ⭐️ ⭐️ ⭐️ ⭐️"
+        },
+        {
+            "name": "Tandoori Deli Halal",
+            "address": "4034 S Parker Rd, Aurora, CO 80014",
+            "phone": "+1 (303) 558-0290",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.3 ⭐️ ⭐️ ⭐️ ⭐️"
+        },
+        {
+            "name": "Uzbek - European cuisine",
+            "address": "DENVER CO COLORADO",
+            "phone": "7209935823",
+            "delivery": "YES",
+            "description": "UY SHAROITI / HOMEMADE"
         }
     ],
     "CT": [],
@@ -116,6 +158,13 @@
             "phone": "+1 (321) 294-4444",
             "delivery": "Call for delivery 🚚",
             "description": "🥘 🍲"
+        },
+        {
+            "name": "CHAYHANA",
+            "address": "Orlando \n\n851 FL-436 #1037, Altamonte Springs, FL\n32714",
+            "phone": "+1 (321) 422-0143",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.9 ⭐ ⭐ ⭐ ⭐"
         }
     ],
     "GA": [
@@ -164,6 +213,27 @@
             "phone": "+15517869980",
             "delivery": "YES:i 88-i 90-i80-i 355-i 55-i 57-i 94-i 294йулларига етказиб бериш\nхизмати мавжуд 24/7",
             "description": "🥘 🍲"
+        },
+        {
+            "name": "ANJIR UZBEK HALAL CUISINE",
+            "address": "Chicago \n1340 Butterfield Rd, Downers Grove, IL\n60515",
+            "phone": "+1 (630) 541-9004",
+            "delivery": "Call  For Delivery 🚚",
+            "description": "4.4 ⭐ ⭐ ⭐ ⭐"
+        },
+        {
+            "name": "Chinor",
+            "address": "Chicago \n\n632 E St Charles Rd, Carol Stream, IL\n60188",
+            "phone": "+1 (630) 731-4059",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.6 ⭐ ⭐ ⭐ ⭐"
+        },
+        {
+            "name": "Tandoor Samsa",
+            "address": "Chicago \n\n706 S Buffalo Grove Rd, Buffalo Grove, IL\n60089",
+            "phone": "+1 (847) 947-8284",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.5 ⭐ ⭐ ⭐ ⭐"
         }
     ],
     "IN": [],
@@ -185,10 +255,40 @@
             "description": "Truck stop i-635 i-35 Amazon warehouse"
         }
     ],
-    "KY": [],
+    "KY": [
+        {
+            "name": "SPECIAL HALAL FOOD",
+            "address": "HEBRON ,KY",
+            "phone": "(717) 702-0000",
+            "delivery": "YES-24/7",
+            "description": "Har kuni soat 8:00 AM dan 12:00\nAM gacha buyurtmalar qabul qilinadi"
+        },
+        {
+            "name": "SPECIAL HALAL FOOD",
+            "address": "HEBRON ,KY",
+            "phone": "(717) 702-0000",
+            "delivery": "YES-24/7",
+            "description": "Mi"
+        }
+    ],
     "LA": [],
     "ME": [],
-    "MD": [],
+    "MD": [
+        {
+            "name": "The Silk Road Bistro",
+            "address": "Baltimore\n\n1004 Reisterstown Rd, Pikesville, MD\n21208",
+            "phone": "+1 (410) 205-7717",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.7 ⭐️ ⭐️ ⭐️ ⭐️"
+        },
+        {
+            "name": "Oasis Uzbek Kebab House",
+            "address": "Baltimore\n\n1430 Reisterstown Rd, Pikesville, MD\n21208",
+            "phone": "+1 (410) 777-9700",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.7 ⭐️ ⭐️ ⭐️ ⭐️"
+        }
+    ],
     "MA": [],
     "MI": [
         {
@@ -197,6 +297,13 @@
             "phone": "8573575757",
             "delivery": "YES",
             "description": "Tayyor ovqatlar ham bor\n\nQazi bor ot goshtidan"
+        },
+        {
+            "name": "Uzbek milliy taomlar va shirinliklar",
+            "address": "Detroit\n\n3296 Troy Avenue Troy\nMI 48083",
+            "phone": "+1 513 773 51 52",
+            "delivery": "Call For Delivery 🚚",
+            "description": "08:00 AM dan kechgi 11:00 PM gacha olib ketsa boladi"
         }
     ],
     "MN": [
@@ -227,7 +334,15 @@
         }
     ],
     "MT": [],
-    "NE": [],
+    "NE": [
+        {
+            "name": "Таджикская национальная кухня домашняя",
+            "address": "Nebraska \n\n2708N 194th Ct Elkhorn city NE 68022",
+            "phone": "402 616 87 72",
+            "delivery": "YES",
+            "description": "🥘 🍲"
+        }
+    ],
     "NV": [
         {
             "name": "CALI KEBAB",
@@ -245,10 +360,53 @@
             "phone": "732 433 8462.   646 836 1716",
             "delivery": "YES —Trucks stops Petro Love's",
             "description": "Hohlagan uzbek milliy taomlariga zakaz olamiz\noldindan zakaz olamiza"
+        },
+        {
+            "name": "OLD BUKHARA",
+            "address": "14 US-9, Morganville, NJ 07751",
+            "phone": "+1 (848) 420-2222",
+            "delivery": "Call  For Delivery 🚚",
+            "description": "4.6 ⭐️ ⭐️ ⭐️ ⭐️"
+        },
+        {
+            "name": "OLD BUKHARA 2",
+            "address": "606 Kinderkamack Rd, River Edge, NJ\n07661",
+            "phone": "+1 (201) 434-2222",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.6 ⭐️ ⭐️ ⭐️ ⭐️"
         }
     ],
     "NM": [],
-    "NY": [],
+    "NY": [
+        {
+            "name": "Registan Restaurant",
+            "address": "461 Kings Hwy, Brooklyn, NY 11223",
+            "phone": "+1 (718) 686-6677",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.6 ⭐ ⭐ ⭐ ⭐"
+        },
+        {
+            "name": "Shashlik House",
+            "address": "1240 Avenue U, Brooklyn, NY 11229",
+            "phone": "+1 (929) 420-9476",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.3 ⭐ ⭐ ⭐ ⭐"
+        },
+        {
+            "name": "Shashlik Uz N1",
+            "address": "238 Kings Hwy, Brooklyn, NY 11223",
+            "phone": "+1 (929) 350-0009",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.5 ⭐ ⭐ ⭐ ⭐"
+        },
+        {
+            "name": "Urgut Tandir Express",
+            "address": "3915 18th Ave, Brooklyn, NY 11218",
+            "phone": "+1 (917) 893-8585",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.1 ⭐ ⭐ ⭐ ⭐"
+        }
+    ],
     "NC": [
         {
             "name": "N.N.D FOOD",
@@ -270,6 +428,13 @@
             "phone": "9804745995",
             "delivery": "YES",
             "description": "🥘 🍲"
+        },
+        {
+            "name": "Silk Road Uzbek Cuisine",
+            "address": "Raleigh\n\n4224 NW Cary Pkwy, Cary, NC 27513",
+            "phone": "+1 (919) 377-2244",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.7 ⭐️ ⭐️ ⭐️ ⭐️"
         }
     ],
     "ND": [],
@@ -301,6 +466,27 @@
             "phone": "+1 (513) 386-8886",
             "delivery": "Call fo Delivery 🚚",
             "description": "🥘 🍲"
+        },
+        {
+            "name": "CHAYHANA",
+            "address": "Toledo\n\n3565 Libbey Rd, Perrysburg, OH 43551",
+            "phone": "+1 (419) 603-4800",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.5 ⭐ ⭐ ⭐ ⭐"
+        },
+        {
+            "name": "Delicious Foods",
+            "address": "Ohio Cincinnati",
+            "phone": "5134046762",
+            "delivery": "Call For Delivery 🚚",
+            "description": "🥘 🍲"
+        },
+        {
+            "name": "Columbus OH\nOshxonasi",
+            "address": "Columbus ,OH",
+            "phone": "6144069407",
+            "delivery": "YES",
+            "description": "UY SHAROITIDA\nTAYYORLANADI\n\nOVQAT ZAKAZ ASOSIDA\nTAYYORLANADI. 4 SOAT OLDIN"
         }
     ],
     "OK": [],
@@ -311,6 +497,20 @@
             "phone": "4254282011.    7253774764",
             "delivery": "YES",
             "description": "🕚 11:00AM-10:00PM"
+        },
+        {
+            "name": "FOOD TRUCK",
+            "address": "PORTLAND OR OREGON",
+            "phone": "3602108483",
+            "delivery": "Call For Delivery 🚚",
+            "description": "🕙 10:00AM-10:00PM"
+        },
+        {
+            "name": "PORTLAND OREGON\nOSHXONASI",
+            "address": "PORTLAND OREGON",
+            "phone": "+19717175857",
+            "delivery": "YES",
+            "description": "OVQAT UY SHAROITIDA\nTAYYORLANADI\n5 - 6 SOAT OLDIN ZAKAZ BERILSA YAXSHI BOLARDI"
         }
     ],
     "PA": [
@@ -341,10 +541,46 @@
             "phone": "+14126893807",
             "delivery": "YES",
             "description": "🕙 11:00AM-12:00PM"
+        },
+        {
+            "name": "TAOMLARI UY SHAROITIDA\nTAYYORLANADI",
+            "address": "BUSTLETON PA",
+            "phone": "267-244-2371",
+            "delivery": "YES-YETKAZIB BERISH BEPUL",
+            "description": "🥘 🍲"
+        },
+        {
+            "name": "Уйгурская кухня",
+            "address": "Harrisburg PA",
+            "phone": "7175626326",
+            "delivery": "YES",
+            "description": "За 2-3 часа принимаю заказ"
+        },
+        {
+            "name": "Plov House",
+            "address": "Philadelphia\n\n9969 Bustleton Ave, Philadelphia, PA 19115",
+            "phone": "+1 (267) 571-1111",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.4 ⭐️ ⭐️ ⭐️ ⭐️"
+        },
+        {
+            "name": "Chorsu Uzbek Cuisine",
+            "address": "Philadelphia\n\n742 Red Lion Rd, Philadelphia, PA 19115",
+            "phone": "+1 (215) 613-6407",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.8 ⭐️ ⭐️ ⭐️ ⭐️"
         }
     ],
     "RI": [],
-    "SC": [],
+    "SC": [
+        {
+            "name": "Smak Halal Restaurant",
+            "address": "139 Lemmons Ln, Gaffney, SC 29341",
+            "phone": "+18644809082",
+            "delivery": "Truck Stop Quick trip pilot J",
+            "description": "Truck Stop Quik Trip Pilot J\nOldida"
+        }
+    ],
     "SD": [],
     "TN": [
         {
@@ -418,6 +654,13 @@
             "phone": "+1 (469) 298-2091",
             "delivery": "Call for Delivery 🚚",
             "description": "🥘 🍲"
+        },
+        {
+            "name": "Mazali plate",
+            "address": "Denton TX\nDallas. TX",
+            "phone": "9372320305",
+            "delivery": "Call For Delivery 🚚",
+            "description": "🥘 🍲"
         }
     ],
     "UT": [
@@ -427,10 +670,25 @@
             "phone": "+1801-600-3892",
             "delivery": "YES",
             "description": "принимаются за 10 часов.\nДоставка до трак стопа бесплатная."
+        },
+        {
+            "name": "Cali Kebab",
+            "address": "1415 South 700 West, Salt Lake City,\nUT",
+            "phone": "+1 (747) 202-7777",
+            "delivery": "YES",
+            "description": "SALT LAKE CITY, UTAH - МЫ\nОТКРЫЛИСЬ!\n\n\nТеперь вы можете заказать\n\nнастоящую узбекскую еду и\n\nвосточные продукты с доставкой\n\n24/7 по Salt Lake City и по всей\n\nтрассе I-15, I-80, I-215!"
         }
     ],
     "VT": [],
-    "VA": [],
+    "VA": [
+        {
+            "name": "Rus Uz - Alexandria",
+            "address": "210 Hoffman St, Alexandria, VA 22314",
+            "phone": "+1 (703) 567-7020",
+            "delivery": "Call For Delivery 🚚",
+            "description": "4.5 ⭐ ⭐ ⭐ ⭐"
+        }
+    ],
     "WA": [
         {
             "name": "TACOMA OSHXONASI\nWASHINGTON\nTACOMA WA",
