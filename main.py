@@ -8,7 +8,7 @@ from aiogram.filters import CommandStart, StateFilter, Command
 from aiogram.client.default import DefaultBotProperties
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.exceptions import TelegramBadRequest
-
+from api_token import BOT_TOKEN
 from admin import admin_router, ADMIN_IDS
 # Включаем логирование
 logging.basicConfig(
@@ -19,7 +19,6 @@ logging.basicConfig(
 )
 
 
-BOT_TOKEN = "7805627856:AAEl3LjfN_Yuc-XAaCVH_rZvt_KzGiHJPgY"
 
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
